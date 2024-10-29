@@ -14,4 +14,3 @@ section {
     .chamada-texto{
         margin-right: 5%;
     }
-    
